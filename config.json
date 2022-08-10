@@ -1,18 +1,20 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
+    "ownerNumber": "62895323254598@s.whatsapp.net", 
+    "ownerName": "gaada", 
     "botName": "NEOBOT-STORE",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
-    "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "group": "comming soon",
+    "yootube": "comming soon",
      
     "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
+    "textBarisDonate1": "Dana : 0895-3232-54598",
+    "textBarisDonate2": "Ovo : 0895-3232-54598
+
+-8900-4732",
+    "textBarisDonate3": "Gopay : 0895-3232-54598",
     "textBarisDonate4": "Pulsa : 0857-8900-4732",
   
     "ButtonTextMenu1": "Youtube",
@@ -31,6 +33,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Lexxy Official"
+        "author": "yeyz Official"
     }
 }
